@@ -1,10 +1,10 @@
 #Header {
   text-align: center;
-  background-color: rgb(7,17, 41);
+  background-color: rgb(7, 17, 41);
 }
-#Footer{
+#Footer {
   text-align: center;
-  background-color: rgb(7,17, 41);
+  background-color: rgb(7, 17, 41);
 }
 .First {
   color: rgb(189, 155, 0);
@@ -15,7 +15,7 @@
   text-decoration: none;
 }
 .blueColor {
-  color:rgb(7,17, 41);
+  color: rgb(7, 17, 41);
 }
 #BlueBackground {
   background-color: rgb(225, 241, 255);
@@ -37,7 +37,7 @@
   text-decoration: none;
 }
 #Photo {
-  background-image: url("A.jpeg");
+  background-image: url("image/A.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
